@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **franbvc/franbvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,8 +29,8 @@ Here are some ideas to get you started:
 
 
 ## Languages and Technologies
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franbvc&layout=compact&theme=tokyonight&hide_border=true) -->
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franbvc&layout=compact&theme=tokyonight&hide_border=true&hide=Makefile&langs_count=4)
+<!-- 
 <style>
   table {
     border-collapse: collapse;
@@ -57,7 +56,7 @@ Here are some ideas to get you started:
     padding: 4%;
   }
 
-</style>
+</style> -->
 
 <table>
   <thead>
@@ -165,6 +164,7 @@ Here are some ideas to get you started:
         <text>Compiler Development</text>
       </td>
       <td>
+        <img width="40" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/>
         <img width="40" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
         <img width="40" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
       </td>
@@ -196,6 +196,7 @@ Here are some ideas to get you started:
         <img width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
       </td>
       <td>
+        <img width="40" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/>
         <img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
         <img width="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/>
         <img width="40" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux"/>
@@ -212,24 +213,20 @@ Here are some ideas to get you started:
 ## Projects
 Here are some of the projects I've worked on:
 
-1. [Project Name]: [Brief description or tagline for the project]
-   - [Link to project repository or live demo]
-   - [Brief description of the project, technologies used, and your role]
+### 1. [Silhouette Language](https://github.com/franbvc/silhouette-lang):
+- A programming language made using C++, Flex, Bison and LLVM. It has the basic features of a programming language such as variables, functions, loops, conditionals, etc. Its syntax is similar to C, but with a few tweaks inspired by other languages such as Haskell and Rust. It is still a work in progress, but it is already possible to write and run programs in it. You can also check the generated LLVM IR code for each program.
 
-2. [Project Name]: [Brief description or tagline for the project]
-   - [Link to project repository or live demo]
-   - [Brief description of the project, technologies used, and your role]
 
-3. [Project Name]: [Brief description or tagline for the project]
-   - [Link to project repository or live demo]
-   - [Brief description of the project, technologies used, and your role]
+### 2. [Crypto Channel](https://github.com/franbvc/CryptoChannel): 
+- CLI tool, designed for security enthusiasts, using rust. It generates x25519 ECDH key pairs, derives keys using HKDF, and encrypts/decrypts messages with AES-GCM. This allows the user to exchange encrypted messages confidently through unsecure channels such as email or SMS.
+
+### 3. [Sharpiler](https://github.com/franbvc/Sharpiler):
+- A Julia compiler written from scratch in C#. It is able to do lexical analysis, syntactic analysis, semantic analysis, and NASM code generation. It can also act as an interpreter and run the code directly in C#.
 
 Feel free to explore my repositories for more projects!
 
 ## Contact Me
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Handle]
-- Personal Website/Blog: [Your Website or Blog URL]
+- LinkedIn: https://www.linkedin.com/in/francisco-costa-6a119421b/
+- GitHub: https://github.com/franbvc
 
 Looking forward to connecting with you!
